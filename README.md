@@ -1,6 +1,7 @@
 # Manas - Telegram Mental Wellness Bot 
 
 **Manas** is a supportive, warm, and non-judgmental mental wellness companion for students on Telegram. Built using Node.js, `Telegraf`, and Google's `gemini-3.5-flash` model, Manas provides a friendly first line of support, active listening, healthy coping strategies, and crisis intervention resources.
+<img width="1221" height="871" alt="image" src="https://github.com/user-attachments/assets/6fc65524-e581-43a2-93d8-beadc4a69bf8" />
 
 > ⚠️ **Disclaimer:** Manas is an AI companion and is **NOT** a licensed therapist, doctor, or counselor. It does not diagnose mental health conditions, prescribe medications, or provide clinical treatment plans. It actively guides students in distress toward professional help.
 
